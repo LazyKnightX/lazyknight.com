@@ -492,7 +492,7 @@ vkontakte_api:
 rating:
   enable: false
   id:     #<app_id>
-  color:  fc6423
+  color:  87daff
 
 
 # Show number of visitors to each article.
