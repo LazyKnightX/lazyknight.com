@@ -9,6 +9,20 @@ tags:
 
 **【简单说明如何安装？】**
 
+如果你从贴吧或群共享下载到压缩包：
+
+1. 解压缩
+2. 把魔兽争霸3版本转换为1.24E
+3. 把Campaigns目录下的Requiem of the Night.w3n放到魔兽根目录下的Campaigns目录下
+4. 把war3patch.mpq放到魔兽根目录下（请备份你的原有的war3patch.mpq）
+
+如果你从U9下载到压缩包：
+
+1. 解压缩
+2. 把魔兽争霸3版本转换为1.24E
+3. 把Requiem of the Night.w3n放到魔兽根目录下的Campaigns目录下
+4. 把war3patch.mpq放到魔兽根目录下（请备份你的原有的war3patch.mpq）
+
 确保你的魔兽版本是1.24~1.27，如果不是，就在群共享下载剑心补丁将魔兽版本变更为1.24~1.27后，把安魂夜压缩包解压之后，将解压出来的 “Requiem of the Night.w3n”复制到魔兽目录下的“Campaigns”目录里，将“war3patch.mpq”文件复制到魔兽目录下（如果有同名文件就替换）。
 
 **【我可以不看安装介绍吗？】**
