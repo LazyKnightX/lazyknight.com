@@ -1,3 +1,3 @@
 # lazyknight.com
 
-A blog powered by Jekyll, Github & NexT.
+A blog powered by Jekyll, Github & Adam Blog.
