@@ -1,7 +1,7 @@
 title: Lazy Knight
 email: i@lazyknight.com
 description: > # this means to ignore newlines until "baseurl:"
-  Lazy Knight is here.
+  Games Created By Lazy Knight
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lazyknight.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "https://lazyknight.com" # the base hostname & protocol for your site, e.g.
 # Author settings
 author: Lazy Knight
 author-pic: avatar.jpg
-about-author: Yet another indie game developer.
+about-author: An indie game developer.
 
 # Contact links
 email: i@lazyknight.com # Add your Email address
