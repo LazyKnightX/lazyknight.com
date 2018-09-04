@@ -1,7 +1,7 @@
-title: Lazy Knight's Game Hub
+title: Lazy Knight
 email: i@lazyknight.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to Lazy Knight's Game Hub.
+  Lazy Knight is here.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lazyknight.com" # the base hostname & protocol for your site, e.g. http://example.com
