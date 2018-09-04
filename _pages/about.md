@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-只是另一位独立游戏制作者。
+独立游戏制作者。
 
 *BTW：网络上存在诸多名为 Lazy Knight 的用户，并非所有这种ID都是我。*
 
