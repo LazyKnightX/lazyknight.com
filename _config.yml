@@ -1,6 +1,6 @@
 title: Lazy Knight
 email: i@lazyknight.com
-description: Games created by Lazy Knight
+description: Listen carefully.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lazyknight.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ url: "https://lazyknight.com" # the base hostname & protocol for your site, e.g.
 # Author settings
 author: Lazy Knight
 author-pic: avatar.jpg
-about-author: An indie game developer.
+about-author:
 
 # Contact links
 email: i@lazyknight.com # Add your Email address
